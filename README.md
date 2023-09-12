@@ -7,6 +7,5 @@
 - estudo no colegio{helena viana sundin 
  ## Meus projetos
  - [PONG](https://editor.p5js.org/pedro.alves.siqueira/sketches/DhrXFbZLL))
- -
  ## Obrigador por Visitar meu perfil
 TMJ É NOXX
